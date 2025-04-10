@@ -2,13 +2,7 @@
 
 This project is a **Streamlit web application** that predicts whether an individual is at risk of heart disease based on health and lifestyle-related input data. The model was trained using a cleaned 2020 dataset and leverages a Random Forest Classifier for accurate predictions.
 
----
 
-## 🚀 Demo
-
-> (Coming soon: Add Streamlit Cloud or GitHub Pages link here)
-
----
 
 ## 🧠 Project Overview
 
